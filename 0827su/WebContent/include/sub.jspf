@@ -1,0 +1,12 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+    <%
+    // 자바코드는 항상 이렇게
+    
+    	//변수를 생성해서 값 대입
+    	String msg = "나다";
+    	
+    %>
+    <p>num: <%=num %></p>
+   
